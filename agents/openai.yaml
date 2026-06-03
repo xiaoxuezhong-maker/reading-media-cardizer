@@ -1,4 +1,4 @@
 interface:
-  display_name: "Reading Media Cardizer"
-  short_description: "Make reading and viewing notes into cards."
-  default_prompt: "Use $reading-media-cardizer to turn this reading note or viewing record into structured Obsidian cards."
+  display_name: "读书观影卡片索引"
+  short_description: "把读书笔记和观影日记整理成豆瓣式视觉卡片索引，方便浏览。"
+  default_prompt: "Use $reading-media-cardizer 把这篇读书笔记或观影日记整理成类似豆瓣、微信读书的视觉卡片索引。"

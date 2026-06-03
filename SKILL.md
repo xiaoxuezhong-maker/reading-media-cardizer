@@ -1,9 +1,9 @@
 ---
 name: reading-media-cardizer
-description: Turn reading notes, book excerpts, viewing logs, film notes, and media reflections into structured Obsidian-ready creative cards. Use when the user asks to整理读书笔记, 观影记录, 书摘, 影视笔记, 或把阅读/观影材料做成卡片、知识卡、主题卡、人物卡、作品卡、金句卡、创作素材卡.
+description: 把读书笔记、书摘、观影日记、影视笔记整理成类似豆瓣或微信读书的卡片索引，方便在 Obsidian 或 LLM Wiki 中按作品、摘录、主题、人物、场景和创作素材视觉化查看。适用于整理读书笔记、观影记录、书摘、影视笔记、媒体卡片、卡片索引、作品索引、视觉化书影音索引等任务。
 ---
 
-# Reading Media Cardizer
+# 读书观影卡片索引
 
 ## Core Rule
 
