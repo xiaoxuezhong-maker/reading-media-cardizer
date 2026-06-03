@@ -44,6 +44,12 @@ Use $reading-media-cardizer 把这篇读书笔记整理成类似微信读书的�
 Use $reading-media-cardizer 把这篇观影记录整理成类似豆瓣的作品卡和场景卡。
 ```
 
+## 支持作者
+
+如果这个 Skill 对你有帮助，欢迎在爱发电支持我继续整理更多 Obsidian、Codex 和创作工作流小工具：
+
+[爱发电：jessiehandbook](https://ifdian.net/a/jessiehandbook)
+
 ## 文件
 
 - `SKILL.md`：Skill 的主要说明和执行规则
