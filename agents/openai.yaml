@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reading Media Cardizer"
+  short_description: "Make reading and viewing notes into cards."
+  default_prompt: "Use $reading-media-cardizer to turn this reading note or viewing record into structured Obsidian cards."
